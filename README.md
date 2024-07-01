@@ -7,3 +7,6 @@
 ```sh
 pip install Pillow
 pip install folium
+
+## 가상 환경 설정 (선택 사항)
+독립적인 Python 환경을 설정하기 위해 가상 환경을 사용하는 것이 좋습니다. 아래의 명령어로 가상 환경을 설정하고 활성화할 수 있습니다.
